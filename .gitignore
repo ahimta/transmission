@@ -23,4 +23,6 @@ macosx/Transmission.app
 macosx/en.lproj/*~.nib
 po/*.mo
 /release
+snap/snapcraft.yaml
 third-party/miniupnp/miniupnpcstrings.h
+*.snap
